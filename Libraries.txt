@@ -1,0 +1,6 @@
+C:\Users\CERTXG\Desktop\SearchAPI for FAST\CAS dependency libraries for Build\jackson-core-lgpl-1.0.0.jar
+C:\Users\CERTXG\Desktop\SearchAPI for FAST\cas-server-3.4.12-dev\lib\jsp-api-2.1.jar
+C:\Users\CERTXG\Desktop\SearchAPI for FAST\cas-server-3.4.12-dev\lib\ldapbp-1.0.jar
+C:\Users\CERTXG\Desktop\SearchAPI for FAST\CAS dependency libraries for Build\scribe-1.3.0.jar
+C:\Users\CERTXG\Desktop\SearchAPI for FAST\CAS dependency libraries for Build\scribe-up-1.1.0.jar
+C:\Users\CERTXG\Desktop\SearchAPI for FAST\cas-server-3.4.12-dev\lib\servlet-api.jar
