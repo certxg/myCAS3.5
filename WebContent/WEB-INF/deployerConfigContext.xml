@@ -333,7 +333,7 @@
     <property name="pooled" value="false"/>
     <property name="url" value="ldap://grdadnorthakcs1.northamerica.cerner.net:389" />
     <property name="userDn" value="CN=svcFastSearchAcct,OU=Service Accounts,DC=northamerica,DC=cerner,DC=net"/>
-    <property name="password" value="A_07_20_12"/>
+    <property name="password" value="**********"/>
     <property name="baseEnvironmentProperties">
         <map>
             <entry>
@@ -357,7 +357,7 @@
         </list>
     </property>
     <property name="userDn" value="cn=manager,dc=maxcrc,dc=com"/>
-    <property name="password" value="secret"/>
+    <property name="password" value="******"/>
     <property name="baseEnvironmentProperties">
         <map>
             <entry key="java.naming.security.authentication" value="simple" />
@@ -377,7 +377,7 @@
         </list>
     </property>
     <property name="userDn" value="uid=admin,ou=system"/>
-    <property name="password" value="secret"/>
+    <property name="password" value="******"/>
     <property name="baseEnvironmentProperties">
         <map>
             <entry key="java.naming.security.authentication" value="simple" />
@@ -396,7 +396,7 @@
         </list>
     </property>
     <property name="userDn" value="cn=Directory Manager"/>
-    <property name="password" value="admin"/>
+    <property name="password" value="*****"/>
     <property name="baseEnvironmentProperties">
         <map>
             <entry key="java.naming.security.authentication" value="simple" />
